@@ -18,6 +18,6 @@ Bubble is a hyperlocal, anonymous mobile chat app. Upon opening, the app will ce
 https://github.com/user-attachments/assets/73affd7c-004c-45e5-b2e5-83701c42aad5
 
 ## Screenshots
-<img width="232.87500" height="276" alt="Simulator Screen Shot - iPhone 8 Plus - 2020-04-16 at 00 56 16" src="https://github.com/user-attachments/assets/d9c9791b-a65b-4cbb-b54d-08d1f3b32828" />
-<img width="232.87500" height="276" alt="Simulator Screen Shot - iPhone 8 Plus - 2020-04-16 at 00 56 50" src="https://github.com/user-attachments/assets/aa65dd3d-6ad9-4a03-a9e4-8eef7b4ceafd" />
-<img width="232.87500" height="276" alt="Simulator Screen Shot - iPhone 8 Plus - 2020-04-16 at 01 02 04" src="https://github.com/user-attachments/assets/7e1b35a3-8f2f-4559-beb1-287238d8f2dd" />
+<img width="465.75" height="552" alt="Simulator Screen Shot - iPhone 8 Plus - 2020-04-16 at 00 56 16" src="https://github.com/user-attachments/assets/d9c9791b-a65b-4cbb-b54d-08d1f3b32828" />
+<img width="465.75" height="552" alt="Simulator Screen Shot - iPhone 8 Plus - 2020-04-16 at 00 56 50" src="https://github.com/user-attachments/assets/aa65dd3d-6ad9-4a03-a9e4-8eef7b4ceafd" />
+<img width="465.75" height="552" alt="Simulator Screen Shot - iPhone 8 Plus - 2020-04-16 at 01 02 04" src="https://github.com/user-attachments/assets/7e1b35a3-8f2f-4559-beb1-287238d8f2dd" />
