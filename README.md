@@ -17,3 +17,4 @@ Bubble is a hyperlocal, anonymous mobile chat app. Upon opening, the app will ce
 ## Demo
 https://github.com/user-attachments/assets/73affd7c-004c-45e5-b2e5-83701c42aad5
 
+https://github.com/HotShahcolate/Bubble-iOS-2/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-04-16%20at%2000.56.16.png
